@@ -26,6 +26,7 @@ Link your json file in the code and then open command window as an administrator
 Follow these steps :
 Locate to the folder where you have downloaded the images and uploaded the code in the command window. Then you need to run the following commands:
 1) scripts/activate
+
 Note : Make sure you have installed pip
 
 2)pip install google-cloud-vision
